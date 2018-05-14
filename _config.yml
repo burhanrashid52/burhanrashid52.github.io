@@ -23,15 +23,15 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://example.com" # the base hostname & protocol for your site
 
 # Social
-githubUsername:
-twitterUsername:
-dribbbleUsername:
+githubUsername: burhanrashid52
+twitterUsername: burhanrashid52
+dribbbleUsername: burhanrashid52
 codepenUsername:
 
 # Build settings
 markdown: kramdown
 
-#themeColor: purple # green, blue, orange, purple, grey
+themeColor: orange # green, blue, orange, purple, grey
 fixedNav: 'true' # true or false
 
 permalink: /:year/:month/:title
