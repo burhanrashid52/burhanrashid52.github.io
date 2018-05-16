@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Android Dagger MVP Rx Architecture"
-redirect: https://github.com/burhanrashid52/AndroidDaggerMVPRxArchitecture
+title:  "Android Room Data Persistent "
+redirect: https://github.com/burhanrashid52/Android-Room-Data-Persistent
 category: Android
 ---
