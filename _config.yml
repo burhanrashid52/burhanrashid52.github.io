@@ -25,9 +25,12 @@ url: "http://example.com" # the base hostname & protocol for your site
 # Social
 githubUsername: burhanrashid52
 twitterUsername: burhanrashid52
-dribbbleUsername: burhanrashid52
 stackoverflowId: 5301119
+redditUserName: burhanrashid52
+linkedinId: burhanuddin-rashid-a16959b1
+uplabsUsername: burhanrashid52
 codepenUsername:
+dribbbleUsername:
 
 # Build settings
 markdown: kramdown
