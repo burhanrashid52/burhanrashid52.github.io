@@ -6,6 +6,6 @@ image: https://aboutme.imgix.net/background/users/b/u/r/burhanrashid52_152493105
 ---
 # Android Developer
 
--Software Engineer, IOT & Open Source enthusiast, Google Certified Android Developer
+Software Engineer, IOT & Open Source enthusiast, Google Certified Android Developer
 
 ![](https://aboutme.imgix.net/background/users/b/u/r/burhanrashid52_1524931053_686.jpg)
