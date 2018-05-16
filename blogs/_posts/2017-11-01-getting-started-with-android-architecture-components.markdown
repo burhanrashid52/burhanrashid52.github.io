@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "New Something"
-date:   2018-01-04 18:52:21
-categories: jekyll update
+title:  "Getting Started with Android Architecture Components"
+redirect: https://medium.com/@burhanrashid52/getting-started-with-android-architecture-components-e1fc80b0f258
+category: Android
 ---
-Something is changed
