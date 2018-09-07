@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "Flutter For Android Developers - Mad Meetup"
-redirect: https://speakerdeck.com/burhanrashid52/flutter-for-android-developers
+redirect: https://www.youtube.com/watch?v=-GxhVbC8QC8
 category: Speaking
 ---
