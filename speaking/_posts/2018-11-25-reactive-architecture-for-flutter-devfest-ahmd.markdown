@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "Build Reactive Architecture for Flutter - DevFest Ahmadabad"
-redirect: https://speakerdeck.com/burhanrashid52/build-reactive-architecture-in-flutter
+redirect: https://youtu.be/rgf_PAS0L10
 category: Speaking
 ---
